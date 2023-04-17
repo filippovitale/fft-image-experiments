@@ -1,4 +1,3 @@
-from math import pi, log, sqrt
 from numpy import array, hstack, vstack
 import numpy as np
 
